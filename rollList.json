@@ -1,0 +1,502 @@
+{
+  "students": [
+    { 
+      "rollNo": 1, 
+      "name": "Aditya Kishor Deshmane",
+      "email": "adityad@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 2, 
+      "name": "Aditya Madan Mapari",
+      "email": "adityam@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 3, 
+      "name": "Akanksha Subhash Pawar",
+      "email": "akankshap@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 4, 
+      "name": "Akshay Telangre",
+      "email": "akshayt@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 5, 
+      "name": "Anjali Gajanan Shelke",
+      "email": "anjalis@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 6, 
+      "name": "Anuja Anil Chate",
+      "email": "anujac@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 7, 
+      "name": "Bhushan Dnyaneshwar Khedekar",
+      "email": "bhushank@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 8, 
+      "name": "Chaitnya Sandip Lodhe",
+      "email": "chaitnyal@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 9, 
+      "name": "Dhiraj Rajendra Tekale",
+      "email": "dhirajt@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 10, 
+      "name": "Gajanan Sudhakar More",
+      "email": "gajananm@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 11, 
+      "name": "Gaurav Ashok Jadhav",
+      "email": "gauravj@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 12, 
+      "name": "Gauri Namdev Rahane",
+      "email": "gaurir@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 13, 
+      "name": "Gayatri Gajanan Mali",
+      "email": "gayatrim@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 14, 
+      "name": "Gayatri Krushna Patil",
+      "email": "gayatrip@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 15, 
+      "name": "Harshal Subhash Pawar",
+      "email": "harshalp@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 16, 
+      "name": "Harshvardhan Dilip Waghmare",
+      "email": "harshvardhanw@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 17, 
+      "name": "Harshwardhan Pritam Kakde",
+      "email": "harshwardhank@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 18, 
+      "name": "Hrishikesh Gajanan Iratkar",
+      "email": "hrishikeshi@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 19, 
+      "name": "Jayesh Narendra Bardekar",
+      "email": "jayeshb@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 20, 
+      "name": "Karankumar Mohan Ade",
+      "email": "karankumara@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 21, 
+      "name": "Komal Annasaheb Wadekar",
+      "email": "komalw@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 22, 
+      "name": "Komal Manohar Parmeshwar",
+      "email": "komalp@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 23, 
+      "name": "Mahesh Paraji Udage",
+      "email": "maheshp@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 24, 
+      "name": "Manju Gulwe",
+      "email": "manjug@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 25, 
+      "name": "Namrata Dipakrao Deshmukh",
+      "email": "namratad@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 26, 
+      "name": "Narendra Sanjay Bhute",
+      "email": "narendrab@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 27, 
+      "name": "Nikita Suresh Kale",
+      "email": "nikitak@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 28, 
+      "name": "Pallavi Dipak Raut",
+      "email": "pallavir@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 29, 
+      "name": "Pavan Bandunana More",
+      "email": "pavanm@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 30, 
+      "name": "Payal Dilip Chinchole",
+      "email": "payalc@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 31, 
+      "name": "Prachi Shrikrushna Dhokane",
+      "email": "prachid@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 32, 
+      "name": "Prajwal Satish Akhade",
+      "email": "prajwala@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 33, 
+      "name": "Pratiksha Ganesh Shiral",
+      "email": "pratikshas@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 34, 
+      "name": "Priyanka Ram Darkad",
+      "email": "priyankad@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 35, 
+      "name": "Rohan Balasaheb Pavane",
+      "email": "rohanp@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 36, 
+      "name": "Rohan Bhanudas Pawar",
+      "email": "rohanp@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 37, 
+      "name": "Rohit Somnath Sonawane",
+      "email": "rohits@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 38, 
+      "name": "Rushikesh Prabhakar Bavaskar",
+      "email": "rushikeshb@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 39, 
+      "name": "Rushikesh Ravindra Mundlik",
+      "email": "rushikeshm@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 40, 
+      "name": "Sakshi Khushal Gaikwad",
+      "email": "sakshig@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 41, 
+      "name": "Sakshi Purushottam Sapkal",
+      "email": "sakshis@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 42, 
+      "name": "Sampada Sanjay Chavan",
+      "email": "sampadac@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 43, 
+      "name": "Sanika Dattatray Saraf",
+      "email": "sanikas@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 44, 
+      "name": "Shaikh Kasim Shaikh Yakub",
+      "email": "shaikhk@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 45, 
+      "name": "Shubhangi Ashok Nawale",
+      "email": "shubhangin@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 46, 
+      "name": "Sudhir Devidas Ghayal",
+      "email": "sudhirg@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 47, 
+      "name": "Swaraj Prakash Lodhe",
+      "email": "swarajl@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 48, 
+      "name": "Tanvi Avinash Kapse",
+      "email": "tanvik@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 49, 
+      "name": "Tejas Vilas Palkar",
+      "email": "tejasp@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 50, 
+      "name": "Vaibhav Santosh Hage",
+      "email": "vaibhavh@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 51, 
+      "name": "Vaishnavi Nivrutti Ingole",
+      "email": "vaishnavii@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 52, 
+      "name": "Vivek Rangnath Dalvi",
+      "email": "vivekd@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 53, 
+      "name": "Yash Ganesh Sontakke",
+      "email": "yashs@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 54, 
+      "name": "Aditya Gajanan Pawar",
+      "email": "adityap@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 55, 
+      "name": "Bhagwat Rajendra Kenkar",
+      "email": "bhagwatk@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 56, 
+      "name": "Chetan Rajendra Mhaske",
+      "email": "chetanm@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 57, 
+      "name": "Kartik Bharat Bakal",
+      "email": "kartikb@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 58, 
+      "name": "Om Dattatray Khandagale",
+      "email": "omk@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 59, 
+      "name": "Om Dilip Pawar",
+      "email": "omp@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 60, 
+      "name": "Radheshyam Vasanta Pawar",
+      "email": "radheshyamp@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 61, 
+      "name": "Rushikesh Ganesh Mante",
+      "email": "rushikeshm@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 62, 
+      "name": "Rutik Nandkishor Pawar",
+      "email": "rutikp@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 63, 
+      "name": "Savitri Dnyaneshwar Deshmukh",
+      "email": "savitri@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 64, 
+      "name": "Sheikh Kamran Sheikh Sadik",
+      "email": "sheikhk@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 65, 
+      "name": "Shital Kaduba Borse",
+      "email": "shitalb@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 66, 
+      "name": "Sushil Gajanan Lahane",
+      "email": "sushill@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 67, 
+      "name": "Swapnil Raju Jogdande",
+      "email": "swapnilj@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 68, 
+      "name": "Abhishek Jagdish Mandlik",
+      "email": "abhishekm@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 69, 
+      "name": "Anuprit Giridhar Swadatkar",
+      "email": "anuprits@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 70, 
+      "name": "Atharv Gajanan Mesare",
+      "email": "atharvm@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 71, 
+      "name": "Bhumika Shrikrushna Kalushe",
+      "email": "bhumikak@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 72, 
+      "name": "Om Santosh Kute",
+      "email": "omk@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 73, 
+      "name": "Praful Kishor Hingankar",
+      "email": "prafulh@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 74, 
+      "name": "Rohit Jayendra Wakode",
+      "email": "rohitw@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 75, 
+      "name": "Anas khan",
+      "email": "anask@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 76, 
+      "name": "Sham Bandu Dhone",
+      "email": "shamd@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 77, 
+      "name": "Bhagwat Gaikwad",
+      "email": "bhagwatg@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 78, 
+      "name": "Gauri chadane",
+      "email": "gauric@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 79, 
+      "name": "Pragati pimpalkar",
+      "email": "pragatip@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 80, 
+      "name": "Rushikesh Milind Sonune",
+      "email": "rushikeshs@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 81, 
+      "name": "Tejas Sanjay Chavan",
+      "email": "tejasc@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 82, 
+      "name": "Akshay Sukhram Gujar",
+      "email": "akshayg@gmail.com",
+      "semester": 6
+    },
+    { 
+      "rollNo": 83, 
+      "name": "Dattatray Sable",
+      "email": "dattatrays@gmail.com",
+      "semester": 6
+    }
+  ]
+}
